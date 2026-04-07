@@ -1,3 +1,12 @@
+# Group Students Name
+
+1. Vedant Vyas 23BAI11349
+2. Anjali Kushwaha 23BAI10634
+
+# GitHub Link
+
+https://github.com/Vedant417/Smart-Energy-Management-System
+
 # 🔋 Smart Energy Management System using Reinforcement Learning
 A full-stack AI-powered simulation system that uses **Reinforcement Learning (PPO)** to optimize electricity consumption in a building/hostel environment while maintaining user comfort.
 
